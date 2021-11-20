@@ -1,9 +1,5 @@
 {
-  "extends": [
-    "config:base",
-    "schedule:weekly",
-    ":preserveSemverRanges"
-  ],
+  "extends": ["config:base", "schedule:weekly", ":preserveSemverRanges"],
   "minor": {
     "groupName": "all dependencies"
   },
