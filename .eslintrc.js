@@ -19,5 +19,6 @@ module.exports = {
         unnamedComponents: "arrow-function",
       },
     ],
+    "import/prefer-default-export": "off",
   },
 };
