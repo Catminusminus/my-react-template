@@ -3,8 +3,8 @@ import { expect, describe, it } from "vitest";
 import { App } from "./App";
 
 describe("Snapshot", () => {
-  it("should render", () => {
-    const { asFragment } = render(<App />);
-    expect(asFragment()).toMatchSnapshot();
-  });
+	it("should render", () => {
+		const { asFragment } = render(<App />);
+		expect(asFragment()).toMatchSnapshot();
+	});
 });

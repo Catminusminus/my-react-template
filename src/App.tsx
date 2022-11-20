@@ -1,3 +1,3 @@
-import { VFC } from "react";
+import { FC } from "react";
 
-export const App: VFC = () => <div>Hello!</div>;
+export const App: FC = () => <div>Hello!</div>;
