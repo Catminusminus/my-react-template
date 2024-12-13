@@ -35,7 +35,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "happy-dom": "^7.7.0",
     "prettier": "^2.7.1",
-    "rome": "^10.0.1",
+    "@biomejs/biome": "^1.0.0",
     "typescript": "^4.9.3",
     "vite": "^3.2.4",
     "vitest": "^0.25.2",
